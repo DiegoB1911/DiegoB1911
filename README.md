@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Diego Barquero Quesada
 
-<!--
-**DiegoB1911/DiegoB1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **Full Stack Developer** passionate about learning and working with emerging technologies like **blockchain** and **Web3**.
 
-Here are some ideas to get you started:
+I have experience working with:
+- **Frontend:** React, Next.js  
+- **Backend:** Nest.js, Kotlin  
+- **Blockchain:** Solidity, Cairo  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 Featured Projects
+Here are some of my key projects:
+
+- **[Revolutionary Farmers](https://github.com/Crypto-Jaguars/Revolutionary_Farmers)**  
+  A project developed during the **ETH Pura Vida 2024** hackathon.  
+
+- **[Safetrust](https://github.com/safetrustcr/Frontend)**  
+Maintainer of **Safetrust**, a platform enabling secure and trusted P2P cryptocurrency transactions.  
+
+---
+
+## 🏆 Achievements
+- Winner of the **HyperCycle Track** in **ETH Pura Vida** 🏅  
+- Earned a **Cumlaude Badge** for completing the **[StarkNet Basecamp](https://pyramid.market/asset/0x07606cac9053e9b8b573a4b0a0ce608880f64869e24b8a605210d7a85bb6e5f1/3113424)** 🔗  
+
+---
+
+## 📫 Contact Me
+- **LinkedIn:** [Diego Barquero Quesada](https://www.linkedin.com/in/diego-barquero-quesada)  
+- **Email:** [barquero954@gmail.com](mailto:barquero954@gmail.com)  
+
+

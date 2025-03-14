@@ -16,8 +16,9 @@ Here are some of my key projects:
 - **[Revolutionary Farmers](https://github.com/Crypto-Jaguars/Revolutionary_Farmers)**  
   A project developed during the **ETH Pura Vida 2024** hackathon.  
 
-- **[Safetrust](https://github.com/safetrustcr/Frontend)**  
-Maintainer of **Safetrust**, a platform enabling secure and trusted P2P cryptocurrency transactions.  
+- **[Scaffold Rust](https://github.com/ScaffoldRust/Scaffold-Stellar)**
+- A developer tool designed to help create Rust projects.
+
 
 ---
 

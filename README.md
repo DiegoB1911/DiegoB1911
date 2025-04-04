@@ -11,7 +11,7 @@ I'm a **Full Stack Developer** passionate about continuous learning and building
 ---
 
 ## 🏆 Achievements
-- 🥇 Winner of the **HyperCycle Track** at **ETH Pura Vida 2024**  
+- Semifinalist at the Celestia Mammothon Hackathon [**HoriZen**](https://github.com/HoriZenDex)
 - 📛 Earned the **Cumlaude Badge** for completing the [**StarkNet Basecamp**](https://pyramid.market/asset/0x07606cac9053e9b8b573a4b0a0ce608880f64869e24b8a605210d7a85bb6e5f1/3113424)
 
 ---
